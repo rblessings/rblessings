@@ -6,7 +6,7 @@ Welcome to my GitHub! As a **Senior Cloud DevOps Engineer**, I specialize in arc
 
 I bring proficiency in **Linux**, **AWS (EKS, Lambda, S3, RDS, and more)**, **Kubernetes**, **Terraform**, and **Docker**, paired with advanced monitoring tools like **OpenTelemetry**, **Prometheus**, and **Grafana** to deliver actionable insights. With a strong focus on **performance optimization** and **observability**, I enable organizations to achieve operational excellence and foster business growth in the cloud era.
 
-Feel free to explore my projects showcasing solutions in **Infrastructure as Code (IaC)**, **observability**, **CI/CD pipelines**, **infrastructure automation**, and **cloud-native system design**. Let’s connect and collaborate to build scalable, resilient systems for the future!
+Feel free to explore my projects, which offer a comprehensive overview of my skills and experience across various domains, including **cloud infrastructure**, **automation**, and **observability**. These projects are carefully organized to showcase my solutions in **Infrastructure as Code (IaC)**, **observability**, **CI/CD pipelines**, and **cloud-native system design**. Let’s connect and collaborate to build scalable, resilient systems for the future!
 
 ---
 
