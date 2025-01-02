@@ -12,11 +12,6 @@ Feel free to explore my projects, which offer a comprehensive overview of my ski
 
 ### 📂 Planned Projects
 
-#### **Kubernetes Helm & ArgoCD Project**
-- Deploy and manage **Kubernetes** applications using **Helm charts** and **ArgoCD**.
-- Automate rollouts with GitOps principles and advanced Helm templating.
-- Enhance deployment efficiency, minimize configuration drift, and scale operations effectively.
-
 #### **Observability and Distributed Tracing**
 - Develop a robust observability stack with **OpenTelemetry**, **Grafana**, **Prometheus**, **Fluent Bit**, and the **ELK stack**.
 - Integrate distributed tracing, centralized logging, and real-time monitoring.
